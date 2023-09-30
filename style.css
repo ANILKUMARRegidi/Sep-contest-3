@@ -1,0 +1,41 @@
+.des{
+    margin-top:0px;
+    margin-left:10px;
+}
+.hero{
+    margin-top:0px;
+}
+.text{
+    margin-top:200px;
+}
+.cus{
+    text-align:left;
+}
+.container-fluid{
+    background-color:rgb(249,74,61,0.07);
+}
+{
+    background-color:rgb(249,74,61,0.07);
+}
+.menu{
+    margin-top:60px;
+}
+.try{
+    margin-top:60px;
+}
+.my-card{
+    display: inline-block;
+    padding:10px;
+}
+.my-card>img{
+    width: 190px;
+height: 200px;
+flex-shrink: 0;
+}
+.star>img{
+    width:30px;
+    fill:yellow;
+}
+.my-items{
+    display:;
+}
